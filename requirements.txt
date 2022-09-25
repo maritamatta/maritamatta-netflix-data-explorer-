@@ -1,0 +1,5 @@
+pandas==1.4.2
+numpy==1.22.3
+pycountry-convert==0.7.2
+dataprep==0.4.5
+plotly==5.7.0
